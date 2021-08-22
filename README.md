@@ -10,3 +10,4 @@ Kullandığım veritabanı => [dvdrental](https://www.postgresqltutorial.com/wp-
 * [SQL Ödev-6](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev6.sql)<br>
 * [SQL Ödev-7](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev7.sql)<br>
 * [SQL Ödev-8](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev8.sql)<br>
+* [SQL Ödev-9](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev9.sql)<br>
