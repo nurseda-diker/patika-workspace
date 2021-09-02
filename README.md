@@ -14,3 +14,4 @@ Kullandığım veritabanı => [dvdrental](https://www.postgresqltutorial.com/wp-
 * [SQL Ödev-10](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev10.sql)<br>
 * [SQL Ödev-11](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev11.sql)<br>
 * [SQL Ödev-12](https://github.com/nurseda-diker/patika-workspace/blob/main/sql-odev12.sql)<br>
+* [Veri Analizi](https://github.com/nurseda-diker/patika-workspace/blob/main/ArabaFiyatAnalizi.ipynb)
